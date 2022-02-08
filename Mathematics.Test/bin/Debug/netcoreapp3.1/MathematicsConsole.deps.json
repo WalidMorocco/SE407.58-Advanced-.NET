@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MathematicsConsole/1.0.0": {
+        "dependencies": {
+          "Mathematics": "1.0.0"
+        },
+        "runtime": {
+          "MathematicsConsole.dll": {}
+        }
+      },
+      "Mathematics/1.0.0": {
+        "runtime": {
+          "Mathematics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathematicsConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mathematics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

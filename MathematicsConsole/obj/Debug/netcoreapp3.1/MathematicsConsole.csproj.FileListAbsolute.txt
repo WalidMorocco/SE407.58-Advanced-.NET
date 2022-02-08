@@ -1,0 +1,16 @@
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\MathematicsConsole.exe
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\MathematicsConsole.deps.json
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\MathematicsConsole.runtimeconfig.json
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\MathematicsConsole.runtimeconfig.dev.json
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\MathematicsConsole.dll
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\MathematicsConsole.pdb
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.AssemblyInfoInputs.cache
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.AssemblyInfo.cs
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.dll
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.pdb
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.genruntimeconfig.cache
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.csproj.AssemblyReference.cache
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\Mathematics.dll
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\bin\Debug\netcoreapp3.1\Mathematics.pdb
+C:\Users\Walid\Source\Repos\WalidMorocco\MathematicsConsole\obj\Debug\netcoreapp3.1\MathematicsConsole.csproj.CopyComplete
