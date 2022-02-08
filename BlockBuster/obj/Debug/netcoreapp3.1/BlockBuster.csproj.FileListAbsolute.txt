@@ -1,0 +1,25 @@
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.deps.json
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.runtimeconfig.json
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.runtimeconfig.dev.json
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.dll
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.pdb
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.AssemblyInfo.cs
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.dll
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.pdb
+C:\Users\Walid\Desktop\School\Acvanced .Net\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.genruntimeconfig.cache
+F:\School\SE407.58 Advanced .NET\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.deps.json
+F:\School\SE407.58 Advanced .NET\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.runtimeconfig.json
+F:\School\SE407.58 Advanced .NET\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.runtimeconfig.dev.json
+F:\School\SE407.58 Advanced .NET\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.dll
+F:\School\SE407.58 Advanced .NET\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.pdb
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.csproj.AssemblyReference.cache
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.AssemblyInfoInputs.cache
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.AssemblyInfo.cs
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.csproj.CoreCompileInputs.cache
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.dll
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.pdb
+F:\School\SE407.58 Advanced .NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.genruntimeconfig.cache
