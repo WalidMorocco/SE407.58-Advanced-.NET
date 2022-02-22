@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using BlockBuster;
 
 namespace BlockBusterWebApp.Controllers
 {
@@ -40,5 +41,12 @@ namespace BlockBusterWebApp.Controllers
             ViewBag.Colors = colors;
             return View();
         }
+
+        public IActionResult Movies()
+        {
+            var movieList = BlockBusterBasicFunctions.GetAllMoviesFull();
+            return View(movieList);
+        }
+
     }
 }

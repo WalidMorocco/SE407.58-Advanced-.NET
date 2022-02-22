@@ -1,4 +1,5 @@
 ﻿using BlockBuster.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -139,6 +140,27 @@ namespace BlockBuster
                             GenreId = m.GenreId,
                             DirectorId = m.DirectorId,
                         }).ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return null;
+            }
+        }
+
+        public static List<Movie> GetAllMoviesFull()
+        {
+            try
+            {
+                using (var context = new SE407_BlockBusterContext())
+                {
+                    var movies = context.Movies
+                        .Include(movies => movies.Director)
+                        .Include(movies => movies.Genre)
+                        .ToList();
+
+                    return movies;
                 }
             }
             catch (Exception e)

@@ -1,0 +1,13 @@
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.AssemblyReference.cache
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfoInputs.cache
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.AssemblyInfo.cs
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\008009482\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.deps.json
+C:\Users\008009482\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.json
+C:\Users\008009482\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.runtimeconfig.dev.json
+C:\Users\008009482\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.dll
+C:\Users\008009482\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\BookStore.pdb
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.dll
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.pdb
+C:\Users\008009482\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
