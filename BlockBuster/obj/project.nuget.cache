@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nAbjKD9Cn7Ti9U+0qxGYDRTZ3i5aJIsA7iRPFM64tsVlb1ZLhsj00DFV1b/YoDFJX1DU9qM2Me0Wfm/ywSyfsQ==",
+  "dgSpecHash": "aohhxugUg2Z8UTt7w19uaJ5IxINR9mZvc3/Y2MbDVpykHa1C61ybYw+fQF7XiPQlLhrHKQ8GJfkjC7rScfZh9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\008009482\\source\\repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster.csproj",
+  "projectFilePath": "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\008009482\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
     "C:\\Users\\008009482\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

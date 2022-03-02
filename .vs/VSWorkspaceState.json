@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlockBusterWebApp",
+    "\\BlockBusterWebApp\\Views",
+    "\\BlockBusterWebApp\\Views\\Home"
   ],
-  "SelectedNode": "\\BlockBuster.sln",
+  "SelectedNode": "\\BlockBusterWebApp\\Views\\Home\\Movies.cshtml",
   "PreviewInSolutionExplorer": false
 }

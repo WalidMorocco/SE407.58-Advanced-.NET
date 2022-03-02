@@ -194,3 +194,8 @@ C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterW
 C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Movies.cshtml.g.cs
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckedOut.cshtml.g.cs
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBusterWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs

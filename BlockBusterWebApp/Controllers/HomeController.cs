@@ -47,6 +47,11 @@ namespace BlockBusterWebApp.Controllers
             var movieList = BlockBusterBasicFunctions.GetAllMoviesFull();
             return View(movieList);
         }
+        public IActionResult CheckedOut()
+        {
+            var movieList = BlockBusterBasicFunctions.GetCheckedOutMovies();
+            return View(movieList);
+        }
 
     }
 }

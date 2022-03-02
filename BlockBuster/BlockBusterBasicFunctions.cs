@@ -25,6 +25,27 @@ namespace BlockBuster
             }
         }
 
+        public static Movie GetMovieByIdFull(int id)
+        {
+            try
+            {
+                using (var context = new SE407_BlockBusterContext())
+                {
+                    return context.Movies
+                        .Include(m => m.Genre)
+                        .Include(m => m.Director)
+                        .Where(m => m.MovieId == id)
+                        .FirstOrDefault();
+
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return null;
+            }
+        }
+
         public static List<Movie> GetAllMovies()
         {
             try
@@ -32,6 +53,37 @@ namespace BlockBuster
                 using (var context = new SE407_BlockBusterContext())
                 {
                     return context.Movies.ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return null;
+            }
+        }
+
+        public static List<Genre> GetAllGenres()
+        {
+            try
+            {
+                using (var context = new SE407_BlockBusterContext())
+                {
+                    return context.Genres.ToList();
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return null;
+            }
+        }
+        public static List<Director> GetAllDirectors()
+        {
+            try
+            {
+                using (var context = new SE407_BlockBusterContext())
+                {
+                    return context.Directors.ToList();
                 }
             }
             catch (Exception e)
@@ -161,6 +213,27 @@ namespace BlockBuster
                         .ToList();
 
                     return movies;
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+                return null;
+            }
+        }
+
+        public static List<Transaction> GetCheckedOutMovies()
+        {
+            try
+            {
+                using (var context = new SE407_BlockBusterContext())
+                {
+                    var movieList = context.Transactions
+                        .Where(t => t.CheckedIn == "N")
+                        .Include(t => t.Movie)
+                        .Include(t => t.Customer)
+                        .ToList();
+                    return movieList;
                 }
             }
             catch (Exception e)
