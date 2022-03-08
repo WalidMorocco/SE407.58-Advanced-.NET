@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster.csproj": {}
+    "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster\\BlockBuster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster.csproj": {
+    "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster\\BlockBuster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster.csproj",
+        "projectUniqueName": "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster\\BlockBuster.csproj",
         "projectName": "BlockBuster",
-        "projectPath": "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster.csproj",
+        "projectPath": "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster\\BlockBuster.csproj",
         "packagesPath": "C:\\Users\\008009482\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\obj\\",
+        "outputPath": "C:\\Users\\008009482\\Source\\Repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BlockBuster\\BlockBuster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -48,6 +48,10 @@
             "CsvHelper": {
               "target": "Package",
               "version": "[18.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

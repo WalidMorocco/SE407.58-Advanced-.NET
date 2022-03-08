@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BlockBusterWebApp",
-    "\\BlockBusterWebApp\\Views",
-    "\\BlockBusterWebApp\\Views\\Home"
+    "\\BlockBuster",
+    "\\BlockBuster\\BlockBuster",
+    "\\BlockBuster\\BlockBuster\\Models"
   ],
-  "SelectedNode": "\\BlockBusterWebApp\\Views\\Home\\Movies.cshtml",
+  "SelectedNode": "\\BlockBuster\\BlockBuster\\Models\\SE407_BlockBusterContext.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -36,3 +36,16 @@ C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\
 C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.dll
 C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.pdb
 C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.genruntimeconfig.cache
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.deps.json
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.runtimeconfig.json
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.runtimeconfig.dev.json
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.dll
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\bin\Debug\netcoreapp3.1\BlockBuster.pdb
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.AssemblyInfo.cs
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.dll
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.pdb
+C:\Users\008009482\Source\Repos\WalidMorocco\SE407.58-Advanced-.NET\BlockBuster\BlockBuster\obj\Debug\netcoreapp3.1\BlockBuster.genruntimeconfig.cache
