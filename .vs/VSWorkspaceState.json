@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\BlockBuster",
-    "\\BlockBuster\\BlockBuster",
+    "\\BlockBuster\\BlockBusterWebApp",
+    "\\BlockBuster\\BlockBusterWebApp\\Controllers",
     "\\BlockBuster\\BlockBuster\\Models"
   ],
-  "SelectedNode": "\\BlockBuster\\BlockBuster\\Models\\SE407_BlockBusterContext.cs",
+  "SelectedNode": "\\BlockBuster\\BlockBusterWebApp\\Controllers\\AdminController.cs",
   "PreviewInSolutionExplorer": false
 }

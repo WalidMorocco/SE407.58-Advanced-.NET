@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\008009482\\source\\repos\\BookStore\\BookStore\\BookStore.csproj": {}
+    "C:\\Users\\008009482\\source\\repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BookStore\\BookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\008009482\\source\\repos\\BookStore\\BookStore\\BookStore.csproj": {
+    "C:\\Users\\008009482\\source\\repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BookStore\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\008009482\\source\\repos\\BookStore\\BookStore\\BookStore.csproj",
+        "projectUniqueName": "C:\\Users\\008009482\\source\\repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BookStore\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "C:\\Users\\008009482\\source\\repos\\BookStore\\BookStore\\BookStore.csproj",
+        "projectPath": "C:\\Users\\008009482\\source\\repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BookStore\\BookStore.csproj",
         "packagesPath": "C:\\Users\\008009482\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\008009482\\source\\repos\\BookStore\\BookStore\\obj\\",
+        "outputPath": "C:\\Users\\008009482\\source\\repos\\WalidMorocco\\SE407.58-Advanced-.NET\\BookStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -48,6 +48,10 @@
             "CsvHelper": {
               "target": "Package",
               "version": "[27.2.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
